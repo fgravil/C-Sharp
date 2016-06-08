@@ -1,0 +1,6 @@
+c:\users\fred\documents\visual studio 2015\Projects\Diamonds\Diamonds\bin\Debug\Diamonds.exe.config
+c:\users\fred\documents\visual studio 2015\Projects\Diamonds\Diamonds\bin\Debug\Diamonds.exe
+c:\users\fred\documents\visual studio 2015\Projects\Diamonds\Diamonds\bin\Debug\Diamonds.pdb
+c:\users\fred\documents\visual studio 2015\Projects\Diamonds\Diamonds\obj\Debug\Diamonds.csprojResolveAssemblyReference.cache
+c:\users\fred\documents\visual studio 2015\Projects\Diamonds\Diamonds\obj\Debug\Diamonds.exe
+c:\users\fred\documents\visual studio 2015\Projects\Diamonds\Diamonds\obj\Debug\Diamonds.pdb

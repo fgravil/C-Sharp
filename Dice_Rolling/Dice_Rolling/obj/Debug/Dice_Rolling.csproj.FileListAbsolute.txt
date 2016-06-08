@@ -1,0 +1,6 @@
+c:\users\fred\documents\visual studio 2015\Projects\Dice_Rolling\Dice_Rolling\bin\Debug\Dice_Rolling.exe.config
+c:\users\fred\documents\visual studio 2015\Projects\Dice_Rolling\Dice_Rolling\bin\Debug\Dice_Rolling.exe
+c:\users\fred\documents\visual studio 2015\Projects\Dice_Rolling\Dice_Rolling\bin\Debug\Dice_Rolling.pdb
+c:\users\fred\documents\visual studio 2015\Projects\Dice_Rolling\Dice_Rolling\obj\Debug\Dice_Rolling.csprojResolveAssemblyReference.cache
+c:\users\fred\documents\visual studio 2015\Projects\Dice_Rolling\Dice_Rolling\obj\Debug\Dice_Rolling.exe
+c:\users\fred\documents\visual studio 2015\Projects\Dice_Rolling\Dice_Rolling\obj\Debug\Dice_Rolling.pdb

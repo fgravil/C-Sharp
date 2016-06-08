@@ -1,0 +1,6 @@
+c:\users\fred\documents\visual studio 2015\Projects\Pi\Pi\bin\Debug\Pi.exe.config
+c:\users\fred\documents\visual studio 2015\Projects\Pi\Pi\obj\Debug\Pi.csprojResolveAssemblyReference.cache
+c:\users\fred\documents\visual studio 2015\Projects\Pi\Pi\bin\Debug\Pi.exe
+c:\users\fred\documents\visual studio 2015\Projects\Pi\Pi\bin\Debug\Pi.pdb
+c:\users\fred\documents\visual studio 2015\Projects\Pi\Pi\obj\Debug\Pi.exe
+c:\users\fred\documents\visual studio 2015\Projects\Pi\Pi\obj\Debug\Pi.pdb

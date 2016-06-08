@@ -1,0 +1,6 @@
+c:\users\fred\documents\visual studio 2015\Projects\Heart-Rate Calculator\Heart-Rate Calculator\bin\Debug\Heart-Rate Calculator.exe.config
+c:\users\fred\documents\visual studio 2015\Projects\Heart-Rate Calculator\Heart-Rate Calculator\bin\Debug\Heart-Rate Calculator.exe
+c:\users\fred\documents\visual studio 2015\Projects\Heart-Rate Calculator\Heart-Rate Calculator\bin\Debug\Heart-Rate Calculator.pdb
+c:\users\fred\documents\visual studio 2015\Projects\Heart-Rate Calculator\Heart-Rate Calculator\obj\Debug\Heart-Rate Calculator.csprojResolveAssemblyReference.cache
+c:\users\fred\documents\visual studio 2015\Projects\Heart-Rate Calculator\Heart-Rate Calculator\obj\Debug\Heart-Rate Calculator.exe
+c:\users\fred\documents\visual studio 2015\Projects\Heart-Rate Calculator\Heart-Rate Calculator\obj\Debug\Heart-Rate Calculator.pdb
