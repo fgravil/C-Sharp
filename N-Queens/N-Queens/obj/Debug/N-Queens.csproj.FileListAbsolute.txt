@@ -1,0 +1,6 @@
+c:\users\fred\documents\visual studio 2015\Projects\N-Queens\N-Queens\bin\Debug\N-Queens.exe.config
+c:\users\fred\documents\visual studio 2015\Projects\N-Queens\N-Queens\bin\Debug\N-Queens.exe
+c:\users\fred\documents\visual studio 2015\Projects\N-Queens\N-Queens\bin\Debug\N-Queens.pdb
+c:\users\fred\documents\visual studio 2015\Projects\N-Queens\N-Queens\obj\Debug\N-Queens.csprojResolveAssemblyReference.cache
+c:\users\fred\documents\visual studio 2015\Projects\N-Queens\N-Queens\obj\Debug\N-Queens.exe
+c:\users\fred\documents\visual studio 2015\Projects\N-Queens\N-Queens\obj\Debug\N-Queens.pdb
